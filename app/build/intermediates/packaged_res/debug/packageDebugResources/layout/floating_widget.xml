@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_parent"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/rounded_background"
+    android:gravity="center">
+
+    <!-- Tombol Utama -->
+    <Button
+        android:id="@+id/mainButton"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/circle_button_background"
+        android:text="+"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:layout_gravity="center"
+        android:elevation="4dp" />
+
+    <!-- Tombol Start -->
+    <Button
+        android:id="@+id/startButton_accessibility"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:layout_marginTop="16dp"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp"
+        android:background="@drawable/button_background"
+        android:textColor="#FFFFFF"
+        android:visibility="gone"
+        android:elevation="2dp" />
+
+    <!-- Tombol Close -->
+    <Button
+        android:id="@+id/closeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close"
+        android:layout_marginTop="8dp"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp"
+        android:background="@drawable/button_background"
+        android:textColor="#FFFFFF"
+        android:visibility="gone"
+        android:elevation="2dp" />
+
+</LinearLayout>

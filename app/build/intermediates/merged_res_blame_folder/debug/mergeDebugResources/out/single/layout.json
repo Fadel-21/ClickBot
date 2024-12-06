@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.trackxmlapp-mergeDebugResources-58:/layout/activity_main_activities.xml",
+        "source": "com.example.trackxmlapp-main-61:/layout/activity_main_activities.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-mergeDebugResources-58:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-mergeDebugResources-58:\\layout\\popup_form.xml",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\popup_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-mergeDebugResources-58:\\layout\\floating_widget.xml",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\floating_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-mergeDebugResources-58:\\layout\\activity_main_activities.xml",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\activity_main_activities.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-mergeDebugResources-58:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-mergeDebugResources-58:\\layout\\activity_base.xml",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-mergeDebugResources-58:\\layout\\dialog_progress.xml",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\dialog_progress.xml"
+    }
+]

@@ -1,0 +1,222 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.trackxmlapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:5:5-78
+11-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />
+12-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:6:5-8:47
+12-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:7:9-69
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:9:5-67
+13-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:9:22-64
+14
+15    <permission
+15-->[androidx.core:core:1.13.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\ee907a8433d18a6d482cb3f115c71f8d\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+16        android:name="com.example.trackxmlapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.13.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\ee907a8433d18a6d482cb3f115c71f8d\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.13.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\ee907a8433d18a6d482cb3f115c71f8d\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.example.trackxmlapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.13.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\ee907a8433d18a6d482cb3f115c71f8d\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.13.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\ee907a8433d18a6d482cb3f115c71f8d\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:11:5-67:19
+22        android:allowBackup="true"
+22-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:12:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.13.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\ee907a8433d18a6d482cb3f115c71f8d\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+24        android:dataExtractionRules="@xml/data_extraction_rules"
+24-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:13:9-65
+25        android:debuggable="true"
+26        android:extractNativeLibs="false"
+27        android:fullBackupContent="@xml/backup_rules"
+27-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:14:9-54
+28        android:icon="@mipmap/ic_launcher"
+28-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:15:9-43
+29        android:label="@string/app_name"
+29-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:16:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:17:9-54
+31        android:supportsRtl="true"
+31-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:18:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.TrackXMLApp" >
+33-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:19:9-49
+34        <activity
+34-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:21:9-24:40
+35            android:name="com.example.trackxmlapp.activities.BaseActivity"
+35-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:22:13-52
+36            android:exported="false"
+36-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:24:13-37
+37            android:screenOrientation="portrait" />
+37-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:23:13-49
+38        <activity
+38-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:25:9-29:40
+39            android:name="com.example.trackxmlapp.activities.SignInActivity"
+39-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:26:13-54
+40            android:exported="false"
+40-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:29:13-37
+41            android:screenOrientation="portrait"
+41-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:27:13-49
+42            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+42-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:28:13-69
+43        <activity
+43-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:30:9-40:20
+44            android:name="com.example.trackxmlapp.activities.SplashActivity"
+44-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:31:13-54
+45            android:exported="true"
+45-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:34:13-36
+46            android:screenOrientation="portrait"
+46-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:32:13-49
+47            android:theme="@style/AppTheme.NoActionBar" >
+47-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:33:13-56
+48            <intent-filter>
+48-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:35:13-39:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:36:17-69
+49-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:36:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:38:17-77
+51-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:38:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <service
+55-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:42:9-46:75
+56            android:name="com.example.trackxmlapp.services.FloatingWidgetService"
+56-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:43:13-59
+57            android:enabled="true"
+57-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:44:13-35
+58            android:exported="true"
+58-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:45:13-36
+59            android:permission="android.permission.SYSTEM_ALERT_WINDOW" />
+59-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:46:13-72
+60        <service
+60-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:47:9-60:19
+61            android:name="com.example.trackxmlapp.services.MyAccessibilityService"
+61-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:48:13-60
+62            android:enabled="true"
+62-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:49:13-35
+63            android:exported="true"
+63-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:50:13-36
+64            android:label="@string/accessibility_service_label"
+64-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:51:13-64
+65            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+65-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:52:13-79
+66            <intent-filter>
+66-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:53:13-55:29
+67                <action android:name="android.accessibilityservice.AccessibilityService" />
+67-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:54:17-92
+67-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:54:25-89
+68            </intent-filter>
+69
+70            <meta-data
+70-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:57:13-59:72
+71                android:name="android.accessibilityservice"
+71-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:58:17-60
+72                android:resource="@xml/accessibility_service_config" />
+72-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:59:17-69
+73        </service>
+74
+75        <activity
+75-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:62:9-66:71
+76            android:name="com.example.trackxmlapp.activities.MainActivities"
+76-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:63:13-54
+77            android:exported="false"
+77-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:64:13-37
+78            android:screenOrientation="portrait"
+78-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:65:13-49
+79            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+79-->D:\Privacy\Projects\Common\Mobile\Kotlin\TrackXMLApp\app\src\main\AndroidManifest.xml:66:13-69
+80        <activity
+80-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\Pongo\.gradle\caches\8.9\transforms\aafeea1ed279746e372b9cd30a561885\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+81            android:name="androidx.compose.ui.tooling.PreviewActivity"
+81-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\Pongo\.gradle\caches\8.9\transforms\aafeea1ed279746e372b9cd30a561885\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+82            android:exported="true" />
+82-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\Pongo\.gradle\caches\8.9\transforms\aafeea1ed279746e372b9cd30a561885\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+83        <activity
+83-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\Pongo\.gradle\caches\8.9\transforms\083a9290e1d9202cd1a7861ed41ba05b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:23:9-25:39
+84            android:name="androidx.activity.ComponentActivity"
+84-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\Pongo\.gradle\caches\8.9\transforms\083a9290e1d9202cd1a7861ed41ba05b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:24:13-63
+85            android:exported="true" />
+85-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\Pongo\.gradle\caches\8.9\transforms\083a9290e1d9202cd1a7861ed41ba05b\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:25:13-36
+86
+87        <provider
+87-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\3e6989af74664a68170c725070535bcf\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+88            android:name="androidx.startup.InitializationProvider"
+88-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\3e6989af74664a68170c725070535bcf\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+89            android:authorities="com.example.trackxmlapp.androidx-startup"
+89-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\3e6989af74664a68170c725070535bcf\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+90            android:exported="false" >
+90-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\3e6989af74664a68170c725070535bcf\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+91            <meta-data
+91-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\3e6989af74664a68170c725070535bcf\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+92                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+92-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\3e6989af74664a68170c725070535bcf\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+93                android:value="androidx.startup" />
+93-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\3e6989af74664a68170c725070535bcf\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+94            <meta-data
+94-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Pongo\.gradle\caches\8.9\transforms\9e3c5e0d7c1c0c327877e7105bd98289\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+95                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+95-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Pongo\.gradle\caches\8.9\transforms\9e3c5e0d7c1c0c327877e7105bd98289\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+96                android:value="androidx.startup" />
+96-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Pongo\.gradle\caches\8.9\transforms\9e3c5e0d7c1c0c327877e7105bd98289\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+97            <meta-data
+97-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+98                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+98-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+99                android:value="androidx.startup" />
+99-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+100        </provider>
+101
+102        <receiver
+102-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+103            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+103-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+104            android:directBootAware="false"
+104-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+105            android:enabled="true"
+105-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+106            android:exported="true"
+106-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+107            android:permission="android.permission.DUMP" >
+107-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+108            <intent-filter>
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+109                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+109-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+109-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+110            </intent-filter>
+111            <intent-filter>
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+112                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+112-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+112-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+113            </intent-filter>
+114            <intent-filter>
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+115                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+116            </intent-filter>
+117            <intent-filter>
+117-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+118                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pongo\.gradle\caches\8.9\transforms\6fc5ce77925f52bf7e19d036785bd4d2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+119            </intent-filter>
+120        </receiver>
+121    </application>
+122
+123</manifest>

@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\layout_floating_widget.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\floating_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_ic_black_color_back_24dp.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\ic_black_color_back_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_ic_splash_background.png.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\ic_splash_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_rounded_background.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\rounded_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.trackxmlapp-debug-59:/layout_activity_main_activities.xml.flat",
+        "source": "com.example.trackxmlapp-main-61:/layout/activity_main_activities.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_button_pressed.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\layout_activity_base.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\layout_activity_main_activities.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\activity_main_activities.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\layout_dialog_progress.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\layout_popup_form.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\layout\\popup_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_ic_user_place_holder.png.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\ic_user_place_holder.png"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_shape_button_rounded.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\shape_button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_ic_background.png.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_button_normal.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-debug-59:\\drawable_circle_button_background.xml.flat",
+        "source": "C:\\Users\\Pongo\\.gradle\\daemon\\8.9\\com.example.trackxmlapp-main-61:\\drawable\\circle_button_background.xml"
+    }
+]

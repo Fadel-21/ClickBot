@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.trackxmlapp-mergeDebugResources-57:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Pongo\\.gradle\\caches\\8.9\\transforms\\4e11c04b08131b96f82145a9ebd7fc0b\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
